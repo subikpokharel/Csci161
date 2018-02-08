@@ -1,0 +1,5 @@
+Slime/2000/1.5
+Chocobo/1200/0.5
+Murlocs/78000/2.3
+Daedra/1666/1.2
+Eggman/145999/5.8
