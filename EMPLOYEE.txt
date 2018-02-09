@@ -1,0 +1,5 @@
+Slime/10000/Grand Forks
+Chocobo/5000/Fargo
+Murlocs/78000/Bismarck
+Daedra/89000/Fargo
+Eggman/145999/Grand Forks
