@@ -1,0 +1,10 @@
+RED	false	5.2
+GREEN	true	11.4	7.3
+RED	true	4.4	4.4	square
+YELLOW	true	5	14.6
+BLUE	true	8.9
+ORANGE	false	19.9	19.9	square
+GREY	true	24.5
+INDIGO	false	22	18.9
+YELLOW	false	20	20	square
+BLUE	true	10	18
